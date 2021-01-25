@@ -1,6 +1,6 @@
 # woody.pizza
 
-This is the source code of the [woody.pizza](https://woody.pizza/).
+This is the source code of [woody.pizza](https://woody.pizza/).
 
 The web page looks like this:
 
