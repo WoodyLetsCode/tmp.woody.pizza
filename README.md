@@ -1,4 +1,4 @@
-# tmp.woody.pizza
+# Temporary website
 
 This is the source code of [tmp.woody.pizza](https://tmp.woody.pizza/).
 
